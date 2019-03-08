@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import bridge from './bridge.jpg';
+import fernleaf from './fernleaf.jpg';
 
 type Props = any;
 
@@ -9,7 +9,7 @@ class Skills extends Component<Props> {
       <div className="Skills flex flex-wrap w-100 w-70-l mv3 center">
         <div className=" w-100 w-50-l tl tr-l flex flex-row flex-column-l justify-start ph2 relative">
           <div className="w-100">
-            <img src={bridge} alt="Picture of bridge" className="dn di-l" />
+            <img src={fernleaf} alt="Picture of bridge" className="dn di-l" />
           </div>
         </div>
         <div className="flex flex-wrap w-100 w-50-l tl ph2 mv0 ">
